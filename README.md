@@ -1,7 +1,15 @@
 # onboarding
 People on projects, organisations, services
 
+## Collaboration beyond our teams
 
+By tapping into the collective talent and innovation of open source communities, we believe we can helps fuel much of the technology we use today, from open source platforms like Linux and Cloud's open platforms to open source browsers like Firefox and Chromium.
+
+The open community-to-enterprise development model often results in more secure software.
+
+.. when everyone can access the code, threats can be discovered and patched more quickly. 
+
+As an added level of security, Softreck tests, hardens, and supports open source software so each customer has the same level of assurance.
 
 
 ## Employees
@@ -36,6 +44,13 @@ for use by Softreck,
 during your working hours as a Softreck employee or
 using Softreck equipment other than a Softreck-provided laptop or Softreck-provided mobile phone.
 
+### Using a trusted process
+
+Through our unique development model, we start with community-created open source software and build upon each project to harden security, fix bugs, patch vulnerabilities, and add new features. 
+
+An open development model connects Softreck engineers to open source communities. 
+As members work together to identify and elevate the best ideas,
+we support them by contributing to the code and creating products from upstream projects.
 
 
 ### Non-Code Works. Employees are encouraged to create non-executable copyrighted works, such as books, speeches, articles and publications, 
@@ -50,7 +65,11 @@ If you developed any part of the work using Company Resources, you may say that 
 that you do not represent the work as an official the Company publication.
 
 
+## Stable and secure community
 
+we’ve worked for more than 3 years to invest in open projects and technologies, protect and defend open source intellectual property, and recruit developers who actively participate in open projects across the IT stack.
+
+This experience helps inform our development model to produce more stable and secure community.
  
  
  
